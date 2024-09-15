@@ -8,3 +8,4 @@ class Car:
 my_car = Car("Toyota", "Corolla")
 
 print(my_car.brand)  # Output: Toyota
+print(my_car.model)  # Output: Corolla
